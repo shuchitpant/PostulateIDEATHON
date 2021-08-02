@@ -14,17 +14,13 @@
 
 ## 🤔Product Description:
 
+Technology has become extremely pervasive and E-governance and its day-to-day activities can be largely affected with the right use of it. 
+Therefore, we have built this scalable enterprise level solution that will help the computer identify if the image uploaded is acceptable in important documents, like PAN cards and Voter IDs. This makes the whole task speedy and reduces the need for manual labour and people chasing the government officers and bankers to change minor details leading to repeating the entire process multiple times. 
 
-We have built a scalable enterprise level solution that will help the computer identify if the image uploaded is acceptable in important documents, like PAN card and Voter IDs, this will reduce the need for manual labor and people chasing the government officers and bankers to change minor details sometimes leading to repeating the entire process multiple times.
+Our product can also come into use for automating the process of marking attendance at government schools and offices.
+We have multiple features implemented in our robust product. Facial recognition and verification, the key features of our product, will be used to recognize and verify your facial images to enable extremely fast and secure signing in and verification process.
 
-
-We have multiple features implemented in our robust product.
-Facial recognition and verification, the key features of our product, will be used to recognize and verify your facial images to enable extremely fast and secure signing in and verification process. 
-
-We also have features such as- 
-Face mask detection to enforce safety protocols to be followed in the pandemic. 
-Detection of blurry images, detection of sunglasses and detecting the number of people in an image. These features are useful for ensuring that proper images are being submitted by the user.
-
+Additional features like face mask detection can come into play to ensure that the safety protocols are followed in the pandemic. Detection of blurriness, obstructions in the facial area like the usage of sunglasses and number of people in the image uploaded by the user will work such that only images that satisfy all standards are accepted.
 <h3>Better UI design </h3> Our product is built with the intention of making the user’s experience easier and secure.
 
 
